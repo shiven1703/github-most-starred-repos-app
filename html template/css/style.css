@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 22px !important;
+  padding-bottom: 20px !important;
+}
+
+.repo-list-heading-card {
+  background-color: #fafbfc;
+}
+
+.repo-card {
+  border-radius: 0rem;
+}
+
+.repo-title {
+  font-size: larger;
+}
+
+.repo-description {
+  color: gray;
+  font-size: medium;
+}
