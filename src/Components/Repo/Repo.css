@@ -1,0 +1,12 @@
+.repo-card {
+  border-radius: 0rem;
+}
+
+.repo-title {
+  font-size: larger;
+}
+
+.repo-description {
+  color: gray;
+  font-size: medium;
+}
