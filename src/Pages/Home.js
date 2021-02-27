@@ -1,6 +1,7 @@
 import NavBar from "./../Components/NavBar";
 import PageIntro from "./../Components/PageIntro";
 import RepoListContainer from "./../Components/RepoListContainer";
+import Footer from "./../Components/Footer";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
         subtitle="Let's Explore &#128515;"
       />
       <RepoListContainer />
+      <Footer />
     </div>
   );
 }
